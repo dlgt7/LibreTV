@@ -27,13 +27,13 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
-    ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
+    niuniu: {
+        api: 'https://api.niuniuzy.me/api.php/provide/vod/',
+        name: '牛牛资源',
     },
-    bfzy: {
-        api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '暴风资源',
+    snzy: {
+        api: 'https://suoniapi.com/api.php/provide/vod/',
+        name: '索尼资源',
     },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
@@ -86,17 +86,17 @@ const API_SITES = {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
     },
-    zuid: {
-        api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源'
+    haoh: {
+        api: 'https://hhzyapi.com/api.php/provide/vod/',
+        name: '豪华资源'
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源'
     },
-    baidu: {
-        api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源'
+    huaya: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod/',
+        name: '虎牙资源'
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
@@ -106,9 +106,9 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
-    ikun: {
-        api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源'
+    ck: {
+        api: 'https://ckzy.me/api.php/provide/vod/',
+        name: 'ck资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
